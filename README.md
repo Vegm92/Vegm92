@@ -3,7 +3,6 @@
 
 ---
 
-### 🚀 The Mission
 I build at the intersection of **Clean Architecture** and **Applied Intelligence**. I specialize in engineering AI-native products, moving beyond simple wrappers to create autonomous agents and automated content pipelines.
 
 * 🤖 **AI Specialty:** Developing Multi-agent swarms, RAG (Retrieval-Augmented Generation), and LLM-orchestration.
@@ -12,7 +11,7 @@ I build at the intersection of **Clean Architecture** and **Applied Intelligence
 
 ---
 
-### 🛠 Intelligence & Tech Stack
+### Intelligence & Tech Stack
 
 **AI & Automation:**
 `LangChain` • `OpenAI API` • `Google Gemini` • `Vector DBs (Supabase/Pinecone)` • `n8n / Make` • `Autonomous Agents`
@@ -25,7 +24,7 @@ I build at the intersection of **Clean Architecture** and **Applied Intelligence
 
 ---
 
-### 📈 Featured AI Work
+### Featured AI Work
 * **[Content Pipeline Agent]:** An automated system using Trend Scout and Script Strategy agents to generate high-fidelity media production briefs.
 * **[AI-SaaS Platform]:** Enhancing creator-audience engagement through intelligent data synthesis and personalized LLM interactions.
 
