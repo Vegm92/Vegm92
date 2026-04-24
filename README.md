@@ -31,4 +31,4 @@ I build at the intersection of **Clean Architecture** and **Applied Intelligence
 ---
 
 ### 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/victor-granda/) • [Portfolio](https://your-portfolio-link.com) • [Email](mailto:victorgranda1992@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/victor-granda/) • [Portfolio]([https://your-portfolio-link.com](https://vegm92.github.io/portfolio/)) • [Email](mailto:victorgranda1992@gmail.com)
