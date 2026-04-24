@@ -1,25 +1,35 @@
 <h1 align="center">Victor Granda 🖖</h1>
-<p align="center"><strong>Full-Stack Engineer | Barcelona, Spain</strong></p>
+<p align="center"><strong>AI-Native Full-Stack Engineer | Barcelona, Spain</strong></p>
 
 ---
 
-### 
-I am a dedicated Full-Stack Developer focused on **Clean Architecture** and **SOLID principles**. I specialize in building scalable web applications with a heavy emphasis on reliability through comprehensive testing (Unit, Integration, and E2E).
+### 🚀 The Mission
+I build at the intersection of **Clean Architecture** and **Applied Intelligence**. I specialize in engineering AI-native products, moving beyond simple wrappers to create autonomous agents and automated content pipelines.
 
-* 🔭 **Current Project:** Developing an AI-integrated SaaS platform focused on enhancing creator-audience engagement.
-* 🧪 **Philosophy:** Test-driven development and accessibility-first design.
-* 📨 **Contact:** victorgranda1992@gmail.com
+* 🤖 **AI Specialty:** Developing Multi-agent swarms, RAG (Retrieval-Augmented Generation), and LLM-orchestration.
+* ⚡ **Automation:** Architecting event-driven workflows that eliminate manual overhead in content and data pipelines.
+* 🧪 **Philosophy:** SOLID principles, Test-Driven Development (TDD), and "Shipped fast, built right."
 
 ---
 
-### 🛠 Tech Stack
-**Languages & Frameworks:** `TypeScript` • `JavaScript (ES6+)` • `Next.js` • `React` • `Node.js` • `Express` • `Sass`
+### 🛠 Intelligence & Tech Stack
 
-**Data & State:** `MongoDB` • `Redux Toolkit` • `REST APIs`
+**AI & Automation:**
+`LangChain` • `OpenAI API` • `Google Gemini` • `Vector DBs (Supabase/Pinecone)` • `n8n / Make` • `Autonomous Agents`
 
-**Testing & Tools:** `Jest` • `Cypress` • `Git` • `Postman` • `AI Integration (LLMs)`
+**Full-Stack Engineering:**
+`TypeScript` • `Next.js` • `React` • `Node.js` • `SvelteKit` • `Drizzle ORM` • `PostgreSQL` • `Tailwind CSS`
+
+**Testing & DevOps:**
+`Jest` • `Cypress` • `Playwright` • `Docker` • `CI/CD (GitHub Actions)` • `Vite`
+
+---
+
+### 📈 Featured AI Work
+* **[Content Pipeline Agent]:** An automated system using Trend Scout and Script Strategy agents to generate high-fidelity media production briefs.
+* **[AI-SaaS Platform]:** Enhancing creator-audience engagement through intelligent data synthesis and personalized LLM interactions.
 
 ---
 
 ### 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/victor-granda/) • [Email](mailto:victorgranda1992@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/victor-granda/) • [Portfolio](https://your-portfolio-link.com) • [Email](mailto:victorgranda1992@gmail.com)
